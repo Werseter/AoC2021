@@ -1,6 +1,6 @@
 [Advent of Code 2021](https://adventofcode.com/2021) solutions by Werseter
 ========================
 
-| Day | Name                                           | Solutions     | Puzzle                                      |
-|:---:|:-----------------------------------------------|:-------------:|:-------------------------------------------:|
-| 01  | Sonar Sweep                                    | [Link](Day01) | [Link](http://adventofcode.com/2021/day/1)  |
+| Day |                      Name                      |   Solutions   |                   Puzzle                    |
+|:---:|:----------------------------------------------:|:-------------:|:-------------------------------------------:|
+| 01  |                  Sonar Sweep                   | [Link](Day01) | [Link](http://adventofcode.com/2021/day/1)  |
