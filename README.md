@@ -7,3 +7,4 @@
 | 02  |                     Dive!                      | [Link](Day02) | [Link](http://adventofcode.com/2021/day/2)  |
 | 03  |               Binary Diagnostic                | [Link](Day03) | [Link](http://adventofcode.com/2021/day/3)  |
 | 04  |                  Giant Squid                   | [Link](Day04) | [Link](http://adventofcode.com/2021/day/4)  |
+| 05  |              Hydrothermal Venture              | [Link](Day05) | [Link](http://adventofcode.com/2021/day/5)  |
