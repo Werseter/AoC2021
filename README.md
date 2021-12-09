@@ -9,3 +9,4 @@
 | 04  |                  Giant Squid                   | [Link](Day04) | [Link](http://adventofcode.com/2021/day/4)  |
 | 05  |              Hydrothermal Venture              | [Link](Day05) | [Link](http://adventofcode.com/2021/day/5)  |
 | 06  |                  Lanternfish                   | [Link](Day06) | [Link](http://adventofcode.com/2021/day/6)  |
+| 07  |            The Treachery of Whales             | [Link](Day07) | [Link](http://adventofcode.com/2021/day/7)  |
