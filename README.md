@@ -18,3 +18,4 @@
 | 13  |              Transparent Origami               | [Link](Day13) | [Link](http://adventofcode.com/2021/day/13) |
 | 14  |            Extended Polymerization             | [Link](Day14) | [Link](http://adventofcode.com/2021/day/14) |
 | 15  |                     Chiton                     | [Link](Day15) | [Link](http://adventofcode.com/2021/day/15) |
+| 16  |                 Packet Decoder                 | [Link](Day16) | [Link](http://adventofcode.com/2021/day/16) |
